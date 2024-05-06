@@ -39,6 +39,7 @@
     "react-native": "*"
   },
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "deprecated-react-native-prop-types": "^5.0.0"
   }
 }
